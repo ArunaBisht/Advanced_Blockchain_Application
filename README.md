@@ -51,5 +51,5 @@ Withdraw funds snapshot
 
 Contract balance funds snapshot
 
-![](snapshots/withdraw.png)
+![](snapshots/contract_balance.png)
 
