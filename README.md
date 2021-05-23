@@ -47,3 +47,9 @@ Withdraw funds snapshot
 
 ![](snapshots/withdraw.png)
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Contract balance funds snapshot
+
+![](snapshots/withdraw.png)
+
